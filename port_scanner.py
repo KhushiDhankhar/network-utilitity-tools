@@ -28,7 +28,7 @@ try:
         threads.append(t)
         t.start()
     for k in threads:
-        t.join()
+        k.join()
 except:
     pass   
 
