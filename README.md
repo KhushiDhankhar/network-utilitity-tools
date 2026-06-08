@@ -55,7 +55,7 @@ A multi-threaded TCP port scanner that identifies open ports on a target host an
 
 ## Project 2: Password Hashing & Lookup Tool
 
-Description
+### Description
 
 A Python-based utility that generates hash digests for user passwords and stores password–hash mappings. The tool allows users to retrieve the original password corresponding to a stored hash by searching the maintained mapping database.
 
