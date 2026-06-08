@@ -61,7 +61,7 @@ A Python-based utility that generates hash digests for user passwords and stores
 
 ### Key Features
 
-* Generate hash digests from user passwords8*
+* Generate hash digests from user passwords
 * Store password and hash mappings
 * Search for passwords using stored hash values
 * Demonstrate how hashing functions work
